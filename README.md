@@ -11,7 +11,7 @@ and added one little piece after the other.
 
 ### Ready to use
 - Audio Function Generator ( Arbitrary Waveform Generator)
-- PWM generator
+- PWM generator (frequency adjustable, with gate driver to directly drive MOSFETs)
 - Quadruple voltmeter
 - I2C scan gives addresses on the bus
 
