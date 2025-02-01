@@ -4,7 +4,7 @@
 When I began to have a look at the possibilities that the Pico PIO offer, I did not expect such a long and interesting journey.
 While working on the documentation of my experiments the idea for a small inexpensive but powerful tool arose, a sort of "Swiss knife" with many accessories you nee in the daily work.
 I started with the Arbitrary Waveform Generator ( see https://github.com/jean-claudeF/ArbitraryWaveformGenerator )
-and addedone little piece after the other.
+and added one little piece after the other.
 
 ## Overview
 (As work in progress, this is still evolving)
