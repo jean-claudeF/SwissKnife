@@ -26,4 +26,5 @@ and added one little piece after the other.
 - Micropython firmware on the Pico providing functions that can be called from a serial terminal or a dedicated PC software written in Python.
 - Tkinter GUI for the PC, written in Python
 
- 
+ ## Hardware
+ ![Picture](/KICAD/swiss_01.png)
