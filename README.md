@@ -27,4 +27,4 @@ and added one little piece after the other.
 - Tkinter GUI for the PC, written in Python
 
  ## Hardware
- ![Picture](/KICAD/swiss_01.png)
+ ![Picture](swiss_hw.png)
